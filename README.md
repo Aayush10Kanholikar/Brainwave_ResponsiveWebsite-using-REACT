@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kanholikar</h1>
+
+# 🌐 Check Website  --> [Brainwave](https://brainwave-lac-alpha.vercel.app/)
+
 <h3 align="left">Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.</h3>
 
 - 🔭 I’m currently working on **Fully Responsive Website with Modern UI/UX in React JS with Tailwind**
